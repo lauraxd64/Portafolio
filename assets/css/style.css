@@ -259,6 +259,12 @@
 	display:block;
 }
 
+.gallery-block_one-image video{
+	position:relative;
+	width:100%;
+	display:block;
+}
+
 .gallery-block_one-title{
 	position:relative;
 	font-size:18px;
